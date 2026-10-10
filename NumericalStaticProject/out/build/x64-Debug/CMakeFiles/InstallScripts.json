@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/ANNA/Desktop/NumericalStaticProject/out/build/x64-Debug/cmake_install.cmake",
+		"C:/Users/ANNA/Desktop/NumericalStaticProject/out/build/x64-Debug/NumericalDiff/cmake_install.cmake",
+		"C:/Users/ANNA/Desktop/NumericalStaticProject/out/build/x64-Debug/App/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

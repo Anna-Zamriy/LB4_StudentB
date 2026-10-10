@@ -1,0 +1,8 @@
+C:/Users/ANNA/Desktop/NumericalStaticProject/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/ANNA/Desktop/NumericalStaticProject/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ANNA/Desktop/NumericalStaticProject/out/build/x64-Debug/NumericalDiff/CMakeFiles/NumericalDiff.dir
+C:/Users/ANNA/Desktop/NumericalStaticProject/out/build/x64-Debug/NumericalDiff/CMakeFiles/edit_cache.dir
+C:/Users/ANNA/Desktop/NumericalStaticProject/out/build/x64-Debug/NumericalDiff/CMakeFiles/rebuild_cache.dir
+C:/Users/ANNA/Desktop/NumericalStaticProject/out/build/x64-Debug/App/CMakeFiles/StaticApp.dir
+C:/Users/ANNA/Desktop/NumericalStaticProject/out/build/x64-Debug/App/CMakeFiles/edit_cache.dir
+C:/Users/ANNA/Desktop/NumericalStaticProject/out/build/x64-Debug/App/CMakeFiles/rebuild_cache.dir
